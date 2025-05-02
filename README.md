@@ -3,7 +3,7 @@
 ## Objectives
 Implement HTML5 images, lists, tables, forms and input types.
 Use form validation attributes.
-Apply multimedia elements such as audio and video.
+Apply multimedia elements such as audio and video. 
 
 ## Instructions
 
